@@ -11,7 +11,7 @@ This script automates the installation process for the Soundness testnet and key
 
 ## GitHub Codespace Setup
 
-1. Go to GitHub and create a new repository
+1. Go to GitHub
 2. Click on the "Codespace" button
 3. Select "Use this template" > "Blank"
 4. Once your Codespace is ready, you can proceed with the installation
