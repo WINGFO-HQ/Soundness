@@ -21,13 +21,15 @@ This script automates the installation process for the Soundness testnet and key
 You can easily install using curl:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/WINGFO-HQ/Soundness/main/soundness.sh | bash
+curl -L https://raw.githubusercontent.com/WINGFO-HQ/Soundness/refs/heads/main/soundness.sh -o soundness.sh && chmod +x soundness.sh && ./soundness.sh
+
 ```
 
 Or with wget:
 
 ```bash
-wget -O - https://raw.githubusercontent.com/WINGFO-HQ/Soundness/main/soundness.sh | bash
+wget https://raw.githubusercontent.com/WINGFO-HQ/Soundness/refs/heads/main/soundness.sh && chmod +x soundness.sh && ./soundness.sh
+
 ```
 
 ## Manual Installation
