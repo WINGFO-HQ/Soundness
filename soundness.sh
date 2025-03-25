@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "WINGFO Soundness Labs Installation..."
+echo "WINGFO Soundness Installation..."
 
 echo "Creating directory for keys..."
 mkdir -p ./soundness_keys
