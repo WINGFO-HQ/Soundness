@@ -1,4 +1,4 @@
-# Soundness Labs Installer
+# Soundness Installer
 
 This script automates the installation process for the Soundness Labs testnet node and key generation.
 
